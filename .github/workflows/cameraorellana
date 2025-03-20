@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camera Orellana</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Camera Orellana</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li class="dropdown">
+                    <a href="#">Galería ▾</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="sesiones.html">Sesiones</a></li>
+                        <li><a href="#">Eventos</a></li>
+                    </ul>
+                </li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="galeria">
+        <h2>Mis Fotografías</h2>
+        <div class="imagenes">
+            <img src="assets/images/foto1.jpg" alt="Foto 1">
+            <img src="assets/images/foto2.jpg" alt="Foto 2">
+            <img src="assets/images/foto3.jpg" alt="Foto 3">
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Camera Orellana - Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
